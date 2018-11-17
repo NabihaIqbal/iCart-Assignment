@@ -10,14 +10,11 @@ On HomeScreen Top Seller and New Arrival categories are shown.User can choose th
 
 SignIn screen has following options:
 
-User can login using mobile no. and password
-User can also login using facebook that functionality is currenlty in development phase.
-User can signup using username,phonenumber,email id, password
+User can login using mobile no. and password.Login using facebook functionality is currenlty in development phase.
+
 
 After successful login user can view the product list that is categorized by Best Seller | Top Seller
-Item can also be view category wise
-Item can be removed or add in the cart
-User can pay with paypal or Credit Card
+Item can also be view category wise. It can be removed or add in the cart. User can pay with paypal or Credit Card.
 User can view the order history
 
 Does this project follows the best Android development practices?
